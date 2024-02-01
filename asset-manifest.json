@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lovishrajput/feedback-ui.git/static/css/main.41e7e927.css",
+    "main.js": "/lovishrajput/feedback-ui.git/static/js/main.66c5dec6.js",
+    "index.html": "/lovishrajput/feedback-ui.git/index.html",
+    "main.41e7e927.css.map": "/lovishrajput/feedback-ui.git/static/css/main.41e7e927.css.map",
+    "main.66c5dec6.js.map": "/lovishrajput/feedback-ui.git/static/js/main.66c5dec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e7e927.css",
+    "static/js/main.66c5dec6.js"
+  ]
+}
